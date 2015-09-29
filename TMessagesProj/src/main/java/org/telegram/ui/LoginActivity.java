@@ -389,7 +389,9 @@ public class LoginActivity extends BaseFragment {
 
     public void needFinishActivity() {
         clearCurrentState();
-        presentFragment(new DialogsActivity(null), true);
+        Bundle dcargs = new Bundle();
+        dcargs.putInt("openChatAfterLaunch", 1); //PRIMAIRE Add parameter to open democrabot chat right after first login/signup
+        presentFragment(new DialogsActivity(dcargs), true, true); //PRIMAIRE removed animated appearance of the Dialogs
         NotificationCenter.getInstance().postNotificationName(NotificationCenter.mainUserInfoChanged);
     }
 

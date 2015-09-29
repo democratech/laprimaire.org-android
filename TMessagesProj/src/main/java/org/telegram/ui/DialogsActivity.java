@@ -99,6 +99,7 @@ public class DialogsActivity extends BaseFragment implements NotificationCenter.
     private long selectedDialog;
     private String searchString;
     private long openedDialogId;
+    private int openChatAfterLaunch;
 
     private MessagesActivityDelegate delegate;
 
@@ -108,6 +109,17 @@ public class DialogsActivity extends BaseFragment implements NotificationCenter.
 
     public DialogsActivity(Bundle args) {
         super(args);
+        if (args!=null) {
+            openChatAfterLaunch = args.getInt("openChatAfterLaunch", 0);
+        }
+    }
+
+    @Override
+    public void onBecomeFullyVisible() {
+        if (openChatAfterLaunch==1){
+            openChatAfterLaunch=0;
+            MessagesController.getInstance().openByUserName("democrabot", DialogsActivity.this, 1);
+        }
     }
 
     @Override
