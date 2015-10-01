@@ -58,13 +58,13 @@ public class IntroActivity extends Activity {
 
         if (LocaleController.isRTL) {
             icons = new int[] {
-                    R.drawable.intro7,
-                    R.drawable.intro6,
-                    R.drawable.intro5,
-                    R.drawable.intro4,
-                    R.drawable.intro3,
-                    R.drawable.intro2,
-                    R.drawable.intro1
+                    R.drawable.ic_gratuite,
+                    R.drawable.ic_securise,
+                    R.drawable.ic_transparente,
+                    R.drawable.ic_citoyenne,
+                    R.drawable.ic_representative,
+                    R.drawable.ic_democratique,
+                    R.drawable.logo_laprimaire_sq
             };
             titles = new int[] {
                     R.string.Page7Title,
@@ -86,13 +86,13 @@ public class IntroActivity extends Activity {
             };
         } else {
             icons = new int[] {
-                    R.drawable.intro1,
-                    R.drawable.intro2,
-                    R.drawable.intro3,
-                    R.drawable.intro4,
-                    R.drawable.intro5,
-                    R.drawable.intro6,
-                    R.drawable.intro7
+                    R.drawable.logo_laprimaire_sq,
+                    R.drawable.ic_democratique,
+                    R.drawable.ic_representative,
+                    R.drawable.ic_citoyenne,
+                    R.drawable.ic_transparente,
+                    R.drawable.ic_securise,
+                    R.drawable.ic_gratuite
             };
             titles = new int[] {
                     R.string.Page1Title,

@@ -3,7 +3,7 @@
 
 
 <resources>
-    <string name="AppName">democratech</string>
+    <string name="AppName">La Primaire</string>
     <string name="LanguageName">Français</string>
     <string name="LanguageNameInEnglish">French</string>
     <string name="LanguageCode">fr</string>
@@ -746,7 +746,7 @@
     <string name="NoUsernameFound">There is no Telegram account with this username.</string>
     <string name="BotCantJoinGroups">This bot can\'t join groups.</string>
     <!--Intro view-->
-    <string name="Page1Title">democratech</string>
+    <string name="Page1Title">La Primaire</string>
     <string name="Page2Title">Démocratique</string>
     <string name="Page3Title">Représentative</string>
     <string name="Page4Title">Citoyenne</string>
@@ -754,12 +754,12 @@
     <string name="Page6Title">Sécurisée</string>
     <string name="Page7Title">Gratuite</string>
     <string name="Page1Message">La primaire <![CDATA[<b>citoyenne</b>]]>, <![CDATA[<b>démocratique</b>]]> et <![CDATA[<b>ouverte</b>]]><![CDATA[<br/>]]>en vue des élections françaises de 2017.<![CDATA[<br/>]]>L\'alternative aux partis politiques.</string>
-    <string name="Page2Message"><![CDATA[<b>democratech</b>]]> offre à <![CDATA[<b>tous</b>]]> les citoyens<![CDATA[<br/>]]>la possibilité d\'être candidat.</string>
-    <string name="Page3Message"><![CDATA[<b>democratech</b>]]> fait émerger des candidats<![CDATA[<br/>]]>de la société civile.</string>
-    <string name="Page4Message"><![CDATA[<b>democratech</b>]]> est organisée par des citoyens<![CDATA[<br/>]]>en dehors du cadre des partis politiques.</string>
-    <string name="Page5Message"><![CDATA[<b>democratech</b>]]> est développée en Open Source<![CDATA[<br/>]]>pour une transparence totale.</string>
-    <string name="Page6Message"><![CDATA[<b>democratech</b>]]> est sécurisée et respecte<![CDATA[<br/>]]>votre vie privée.</string>
-    <string name="Page7Message"><![CDATA[<b>democratech</b>]]> est dévelopée bénévolement<![CDATA[<br/>]]>grâce à vos dons.</string>
+    <string name="Page2Message"><![CDATA[<b>La Primaire</b>]]> offre à <![CDATA[<b>tous</b>]]> les citoyens<![CDATA[<br/>]]>la possibilité d\'être candidat.</string>
+    <string name="Page3Message"><![CDATA[<b>La Primaire</b>]]> fait émerger des candidats<![CDATA[<br/>]]>de la société civile.</string>
+    <string name="Page4Message"><![CDATA[<b>La Primaire</b>]]> est organisée par des citoyens<![CDATA[<br/>]]>en dehors du cadre des partis politiques.</string>
+    <string name="Page5Message"><![CDATA[<b>La Primaire</b>]]> est développée en Open Source<![CDATA[<br/>]]>pour une transparence totale.</string>
+    <string name="Page6Message"><![CDATA[<b>La Primaire</b>]]> est sécurisée et respecte<![CDATA[<br/>]]>votre vie privée.</string>
+    <string name="Page7Message"><![CDATA[<b>La Primaire</b>]]> est dévelopée bénévolement<![CDATA[<br/>]]>grâce à vos dons.</string>
     <string name="StartMessaging">Je participe</string>
     <!--plural-->
     <string name="Online_zero">%1$d online</string>

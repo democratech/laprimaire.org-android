@@ -44,7 +44,7 @@
         android:name=".ApplicationLoader"
         android:allowBackup="false"
         android:hardwareAccelerated="@bool/useHardwareAcceleration"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@drawable/ic_laprimaire"
         android:label="@string/AppName"
         android:largeHeap="true"
         android:theme="@style/Theme.TMessages.Start">
@@ -102,7 +102,7 @@
                 <data android:host="telegram.me" android:scheme="http" />
                 <data android:host="telegram.me" android:scheme="https" />
             </intent-filter>
-            <intent-filter android:icon="@drawable/ic_launcher" android:priority="1">
+            <intent-filter android:icon="@drawable/ic_laprimaire" android:priority="1">
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <category android:name="android.intent.category.DEFAULT" />
