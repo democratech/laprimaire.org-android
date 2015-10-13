@@ -643,15 +643,15 @@
     <string name="SendingVideo">Sending video...</string>
     <string name="CompressVideo">Compress Video</string>
     <!--bot-->
-    <string name="Bot">Organisateur de la primaire</string>
+    <string name="Bot">Assistant à l\'organisation de La Primaire</string>
     <string name="BotShare">Partager</string>
     <string name="BotInvite">Ajouter au groupe</string>
     <string name="BotSettings">Paramètres</string>
     <string name="BotHelp">Aide</string>
     <string name="BotStatusRead">a accès aux messages</string>
     <string name="BotStatusCantRead">n\'a pas accès aux messages</string>
-    <string name="BotInfoTitle">Qu\'est-ce que ce robot peut faire ?</string>
-    <string name="BotStart">APPUYEZ ICI POUR COMMENCER</string>
+    <string name="BotInfoTitle">Bienvenue</string>
+    <string name="BotStart">DEMARRER</string>
     <string name="BotUnblock">REDEMARRER</string>
     <string name="BotStop">Bloquer ce robot</string>
     <string name="BotRestart">Redémarrer ce robot</string>
