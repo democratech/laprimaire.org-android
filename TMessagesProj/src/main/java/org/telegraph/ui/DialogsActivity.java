@@ -117,7 +117,7 @@ public class DialogsActivity extends BaseFragment implements NotificationCenter.
     public void onBecomeFullyVisible() {
         if (openChatAfterLaunch==1){
             openChatAfterLaunch=0;
-            MessagesController.getInstance().openByUserName("democrabot", DialogsActivity.this, 1);
+            MessagesController.getInstance().openByUserName("LaPrimaireBot", DialogsActivity.this, 1);
         }
     }
 
