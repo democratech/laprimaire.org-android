@@ -643,15 +643,15 @@
     <string name="SendingVideo">Sending video...</string>
     <string name="CompressVideo">Compress Video</string>
     <!--bot-->
-    <string name="Bot">Organisateur de la primaire</string>
+    <string name="Bot">Assistant à l\'organisation de La Primaire</string>
     <string name="BotShare">Partager</string>
     <string name="BotInvite">Ajouter au groupe</string>
     <string name="BotSettings">Paramètres</string>
     <string name="BotHelp">Aide</string>
     <string name="BotStatusRead">a accès aux messages</string>
     <string name="BotStatusCantRead">n\'a pas accès aux messages</string>
-    <string name="BotInfoTitle">Qu\'est-ce que ce robot peut faire ?</string>
-    <string name="BotStart">APPUYEZ ICI POUR COMMENCER</string>
+    <string name="BotInfoTitle">Bienvenue</string>
+    <string name="BotStart">DEMARRER</string>
     <string name="BotUnblock">REDEMARRER</string>
     <string name="BotStop">Bloquer ce robot</string>
     <string name="BotRestart">Redémarrer ce robot</string>
@@ -754,12 +754,12 @@
     <string name="Page6Title">Sécurisée</string>
     <string name="Page7Title">Gratuite</string>
     <string name="Page1Message">La primaire <![CDATA[<b>citoyenne</b>]]>, <![CDATA[<b>démocratique</b>]]> et <![CDATA[<b>ouverte</b>]]><![CDATA[<br/>]]>en vue des élections françaises de 2017.<![CDATA[<br/>]]>L\'alternative aux partis politiques.</string>
-    <string name="Page2Message"><![CDATA[<b>La Primaire</b>]]> offre à <![CDATA[<b>tous</b>]]> les citoyens<![CDATA[<br/>]]>la possibilité d\'être candidat.</string>
-    <string name="Page3Message"><![CDATA[<b>La Primaire</b>]]> fait émerger des candidats<![CDATA[<br/>]]>de la société civile.</string>
-    <string name="Page4Message"><![CDATA[<b>La Primaire</b>]]> est organisée par des citoyens<![CDATA[<br/>]]>en dehors du cadre des partis politiques.</string>
+    <string name="Page2Message"><![CDATA[<b>La Primaire</b>]]> offre à <![CDATA[<b>tous</b>]]> les citoyens<![CDATA[<br/>]]>la possibilité d\'être candidat<![CDATA[<br/>]]>et de proposer des candidats.</string>
+    <string name="Page3Message"><![CDATA[<b>La Primaire</b>]]> est apartisane.<![CDATA[<br/>]]>Toutes les opinions politiques peuvent s\'exprimer.</string>
+    <string name="Page4Message"><![CDATA[<b>La Primaire</b>]]> est organisée par des citoyens<![CDATA[<br/>]]>pour les citoyens.</string>
     <string name="Page5Message"><![CDATA[<b>La Primaire</b>]]> est développée en Open Source<![CDATA[<br/>]]>pour une transparence totale.</string>
     <string name="Page6Message"><![CDATA[<b>La Primaire</b>]]> est sécurisée et respecte<![CDATA[<br/>]]>votre vie privée.</string>
-    <string name="Page7Message"><![CDATA[<b>La Primaire</b>]]> est dévelopée bénévolement<![CDATA[<br/>]]>grâce à vos dons.</string>
+    <string name="Page7Message"><![CDATA[<b>La Primaire</b>]]> est accessible à tous<![CDATA[<br/>]]>sans condition.</string>
     <string name="StartMessaging">Je participe</string>
     <!--plural-->
     <string name="Online_zero">%1$d online</string>
